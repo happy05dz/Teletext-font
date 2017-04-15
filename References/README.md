@@ -1,6 +1,6 @@
 # Teletext-font
 
-Article: (soon ...)
+This project contains a set of PNG Unicode fonts for blocky graphics. Teletext-font attempts to support character cell art well while also being suitable for terminal and programming use. 
 
 ### Reference
 
